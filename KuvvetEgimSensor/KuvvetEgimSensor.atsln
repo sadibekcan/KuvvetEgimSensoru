@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "KuvvetEgimSensor", "KuvvetEgimSensor\KuvvetEgimSensor.cproj", "{D119780E-412E-41F8-89EF-C7B8421DD241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D119780E-412E-41F8-89EF-C7B8421DD241}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D119780E-412E-41F8-89EF-C7B8421DD241}.Debug|AVR.Build.0 = Debug|AVR
+		{D119780E-412E-41F8-89EF-C7B8421DD241}.Release|AVR.ActiveCfg = Release|AVR
+		{D119780E-412E-41F8-89EF-C7B8421DD241}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
